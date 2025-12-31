@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Borderline",
+  "base_artist": "シャイニーカラーズ",
+  "createdAt": "2025-12-31T16:05:49.450514Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Borderline",
+      "artist": "Alabama",
+      "has_synced": false,
+      "path": "select/01_The_Borderline_Alabama.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Borderline",
+      "artist": "MC5",
+      "has_synced": false,
+      "path": "select/02_Borderline_MC5.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Borderline",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/03_Borderline_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Borderline",
+      "artist": "Tame Impala",
+      "has_synced": true,
+      "path": "select/04_Borderline_Tame_Impala.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "borderline (feat. Missy Elliott)",
+      "artist": "Ariana Grande feat. Missy Elliott",
+      "has_synced": true,
+      "path": "select/05_borderline_(feat._Missy_Elliott)_Ariana_Grande_feat._Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "borderline",
+      "artist": "Ariana Grande feat. Missy Elliott",
+      "has_synced": true,
+      "path": "select/06_borderline_Ariana_Grande_feat._Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Borderline (Club Mix)",
+      "artist": "Michael Gray",
+      "has_synced": false,
+      "path": "select/07_Borderline_(Club_Mix)_Michael_Gray.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Borderline (Dennis Christophers Vocal Mix)",
+      "artist": "MICHAEL GRAY Feat. Shelly Poole",
+      "has_synced": false,
+      "path": "select/08_Borderline_(Dennis_Christophers_Vocal_Mix)_MICHAEL_GRAY_Feat._Shelly_Poole.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Borderline (radio edit)",
+      "artist": "Michael Gray",
+      "has_synced": false,
+      "path": "select/09_Borderline_(radio_edit)_Michael_Gray.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Flame (Borderline Insanity Dub)",
+      "artist": "Crustation",
+      "has_synced": false,
+      "path": "select/10_Flame_(Borderline_Insanity_Dub)_Crustation.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Borderline",
+      "artist": "Classixx feat. Jesse Kivel",
+      "has_synced": true,
+      "path": "select/11_Borderline_Classixx_feat._Jesse_Kivel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Borderline",
+      "artist": "Classixx",
+      "has_synced": true,
+      "path": "select/12_Borderline_Classixx.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Borderline in Shadow",
+      "artist": "Eiko Ishibashi",
+      "has_synced": false,
+      "path": "select/13_Borderline_in_Shadow_Eiko_Ishibashi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Borderline",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/14_Borderline_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Borderline",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/15_Borderline_Scorpions.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Borderline",
+      "artist": "Skyclad",
+      "has_synced": false,
+      "path": "select/16_Borderline_Skyclad.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Borderline",
+      "artist": "Tove Styrke",
+      "has_synced": true,
+      "path": "select/17_Borderline_Tove_Styrke.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Borderline",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_01_Borderline_シャイニーカラーズ.txt"
+    }
+  ]
+}
